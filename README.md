@@ -10,6 +10,7 @@
 ## Built With
 
 - Ruby on Rails
+- Postgresql
 
 
 ## Live Demo (if available)
@@ -52,8 +53,6 @@ Cloning a repository
 - Run `rails db:create db:migrate db:seed`
 
 - Run `rails server`;
-
-- Open `http://localhost:3000/` in your browser.
 
 
 ## Author
