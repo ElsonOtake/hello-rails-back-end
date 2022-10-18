@@ -4,6 +4,8 @@
 
 > Implement a connection between a Ruby on Rails back-end and React front-end.
 
+[Link to React front end](https://github.com/ElsonOtake/hello-react-front-end)
+
 
 ## Built With
 
